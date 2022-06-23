@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "name": "Aida",
+      "surname": "Nurgaeva",
+      "phone": "0700550662",
+      "id": 1
+    },
+    {
+      "name": "Saikal",
+      "surname": "Alykulova",
+      "phone": "0550111222",
+      "id": 2
+    },
+    {
+      "name": "Oleg",
+      "surname": "Suwkov",
+      "phone": "3456787988",
+      "id": 3
+    }
+  ]
+}
